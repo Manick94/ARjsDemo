@@ -1,2 +1,2 @@
 # hello_world
-first git project repository
+this is my first AR.js demo app
