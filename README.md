@@ -1,2 +1,3 @@
 # hello_world
-this is my first AR.js demo app
+this repo demonstrates the Augmented Reality over the web with AR.js and babylone.js
+still under development, begining stages of organizing frameworks for combining AR and VR together.
